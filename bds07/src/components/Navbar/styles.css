@@ -1,0 +1,17 @@
+.main-nav {
+  padding-left: 40px;
+  background-color: #1890FF;
+  margin: 0;
+}
+
+.navbar h4 {  
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-bottom: 0;
+}
+
+.text-nav {
+  color: #fff;
+  font-weight: 500;
+}
+
